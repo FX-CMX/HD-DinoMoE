@@ -105,7 +105,7 @@ Download the DINOv3 ViT-L/16 pre-trained weights and place them in the `pretrain
 | `dinov3_vitl16_pretrain_lvd1689m-8aa4cbdd.pth` | LVD-1689M pre-trained |
 
 ```bash
-mkdir -p pretrained/
+cd pretrained/
 # Download weights to pretrained/ directory
 ```
 
