@@ -1,0 +1,14 @@
+# Core dependencies for HD-DinoMoE
+# Install PyTorch first: pip install torch==2.4.1 torchvision==0.19.1 --index-url https://download.pytorch.org/whl/cu121
+torch==2.4.1
+torchvision==0.19.1
+numpy==1.25.2
+opencv-python==4.11.0.86
+albumentations==2.0.5
+tqdm==4.67.1
+matplotlib==3.10.1
+PyYAML==6.0.2
+pandas==2.3.0
+scipy==1.11.4
+rich==14.0.0
+pillow==11.1.0

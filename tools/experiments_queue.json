@@ -1,0 +1,41 @@
+{
+  "version": "2.0",
+  "runner_pid": 1026710,
+  "current_experiment": "sat_lvd_single_dpt_glare_p2.0_g1.0_gs3_casw_balanced_t1.0_gl1.0_sw12_d515",
+  "gpu_range": "2,3,4,5",
+  "cooldown": 15,
+  "experiments": [
+    {
+      "name": "sat_lvd_single_dpt_glare_p2.0_g1.0_gs3_casw_balanced_t1.0_gl1.0_sw12_d515",
+      "config": {
+        "backbone_mode": "sat_lvd",
+        "decoder_config": "single",
+        "single_decoder_type": "dpt",
+        "glare_mode": "glare",
+        "glare_penalty": 2.0,
+        "glare_gamma": 1.0,
+        "sample_weight_mode": "casw",
+        "focus_mode": "balanced",
+        "sample_temp": 1.0,
+        "sample_warmup_epochs": 10,
+        "focal_gamma": 2.0,
+        "gate_entropy_lambda": 1.0,
+        "dataset": "515",
+        "epochs": 50,
+        "batch_size": 1,
+        "lr": 0.0001,
+        "input_h": 1024,
+        "input_w": 1024,
+        "glare_loss_stages": "3",
+        "sample_weight_stages": "1,2",
+        "is_resume": true
+      },
+      "status": "running",
+      "start_time": "2026-04-05 15:43:39",
+      "end_time": null,
+      "exit_code": null,
+      "progress": 0,
+      "gpu_id": 2
+    }
+  ]
+}
