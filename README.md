@@ -244,7 +244,7 @@ If you find this work useful, please cite:
   author={Yinxiang Yu},
   journal={...},
   year={2026}
-  please wait...
+  note = {Unpublished manuscript, please wait}
 }
 ```
 
