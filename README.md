@@ -241,9 +241,10 @@ If you find this work useful, please cite:
 ```bibtex
 @article{hddinomoe2026,
   title={HD-DinoMoE: Hierarchical Dual-stream Mixture-of-Experts for Multi-label Ocular Surface Segmentation},
-  author={...},
+  author={Yinxiang Yu},
   journal={...},
   year={2026}
+  please wait...
 }
 ```
 
