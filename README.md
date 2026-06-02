@@ -2,8 +2,8 @@
 
 **Hierarchical Dual-stream MoE for Multi-label Ocular Surface Segmentation**
 
-The paper has been submitted to the journal Medical Image Analysis.
-The dataset will be made public after the paper is officially published.
+**The paper has been submitted to the journal Medical Image Analysis.
+The dataset will be made public after the paper is officially published.**
 
 A class-aware hierarchical dual-stream mixture-of-experts architecture built on DINOv3 vision foundation models for composite multi-label segmentation of the ocular surface.
 
