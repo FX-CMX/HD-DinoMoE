@@ -242,15 +242,14 @@ The monitor provides real-time status of all queued, running, and completed expe
 If you find this work useful, please cite:
 
 ```bibtex
-@misc{yuHDDinoMoE2026,
-  title = {{{HD-DinoMoE}}: {{A Class-Aware Hierarchical Dual Mixture-of-Experts Network}} for {{Scleral Anomaly Segmentation}} in {{Complex Acquisition Scenarios}}},
-  shorttitle = {{{HD-DinoMoE}}},
-  author = {Yu, Yinxiang and Chu, Maoxiang and Niu, Qi and Liu, Guanghu and Xu, Wei and Wang, Haotian and Chen, Zhi and Zhu, Yutian and Fan, Yuelong and Liao, Guanghao},
-  year = 2026,
-  publisher = {arXiv},
-  urldate = {2026-06-04},
-  copyright = {arXiv.org perpetual, non-exclusive license},
-  keywords = {Computer Vision and Pattern Recognition (cs.CV),FOS: Computer and information sciences}
+@misc{yu2026hddinomoeclassawarehierarchicaldual,
+      title={HD-DinoMoE: A Class-Aware Hierarchical Dual Mixture-of-Experts Network for Scleral Anomaly Segmentation in Complex Acquisition Scenarios}, 
+      author={Yinxiang Yu and Maoxiang Chu and Qi Niu and Guanghu Liu and Wei Xu and Haotian Wang and Zhi Chen and Yutian Zhu and Yuelong Fan and Guanghao Liao},
+      year={2026},
+      eprint={2606.04888},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2606.04888}, 
 }
 ```
 
