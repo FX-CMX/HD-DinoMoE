@@ -242,12 +242,15 @@ The monitor provides real-time status of all queued, running, and completed expe
 If you find this work useful, please cite:
 
 ```bibtex
-@article{hddinomoe2026,
-  title={HD-DinoMoE: Hierarchical Dual-stream Mixture-of-Experts for Multi-label Ocular Surface Segmentation},
-  author={Yinxiang Yu},
-  journal={...},
-  year={2026}
-  note = {Unpublished manuscript, please wait}
+@misc{yuHDDinoMoE2026,
+  title = {{{HD-DinoMoE}}: {{A Class-Aware Hierarchical Dual Mixture-of-Experts Network}} for {{Scleral Anomaly Segmentation}} in {{Complex Acquisition Scenarios}}},
+  shorttitle = {{{HD-DinoMoE}}},
+  author = {Yu, Yinxiang and Chu, Maoxiang and Niu, Qi and Liu, Guanghu and Xu, Wei and Wang, Haotian and Chen, Zhi and Zhu, Yutian and Fan, Yuelong and Liao, Guanghao},
+  year = 2026,
+  publisher = {arXiv},
+  urldate = {2026-06-04},
+  copyright = {arXiv.org perpetual, non-exclusive license},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV),FOS: Computer and information sciences}
 }
 ```
 
